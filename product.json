@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "name": "아디다스 삼바 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/315349082602?wid=267&hei=267&fmt=png-alpha",
+    "color": "Green - White - Brown",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 1,
+    "name": "아디다스 삼바 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/314313309404?wid=267&hei=267&fmt=png-alpha",
+    "color": "Core Black - White - Gum",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": true,
+    "popularity": true
+  },
+  {
+    "id": 2,
+    "name": "아디다스 삼바 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/314311917604?wid=267&hei=267&fmt=png-alpha",
+    "color": "Orange - White - Brown",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": true,
+    "popularity": false
+  },
+  {
+    "id": 3,
+    "name": "아디다스 삼바 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/314311918404?wid=267&hei=267&fmt=png-alpha",
+    "color": "Blue - White - Brown",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": true,
+    "popularity": false
+  },
+  {
+    "id": 4,
+    "name": "아디다스 삼바 비건",
+    "img": "https://images.footlocker.com/is/image/FLEU/314312053904?wid=267&hei=267&fmt=png-alpha",
+    "color": "White - Core Black - Granite",
+    "category": "남성 신발",
+    "price": 149000,
+    "new": true,
+    "popularity": false
+  },
+  {
+    "id": 5,
+    "name": "조던 1 레트로 하이 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/314106029904?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Sky J Mauve - White",
+    "category": "남성 신발",
+    "price": 219000,
+    "new": false,
+    "popularity": true
+  },
+  {
+    "id": 6,
+    "name": "조던 1 로우",
+    "img": "https://images.footlocker.com/is/image/FLEU/314106161004?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Black - Sky J Orange",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": false,
+    "popularity": true
+  },
+  {
+    "id": 7,
+    "name": "조던 1 로우",
+    "img": "https://images.footlocker.com/is/image/FLEU/314105534904?wid=207&hei=207&fmt=png-alpha",
+    "color": "Cerment Gray - Black - White",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 8,
+    "name": "조던 1 미드",
+    "img": "https://images.footlocker.com/is/image/FLEU/314105100904?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Lt Orewood Brn - Tech Grey",
+    "category": "남성 신발",
+    "price": 169000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 9,
+    "name": "조던 3 레트로",
+    "img": "https://images.footlocker.com/is/image/FLEU/314105143904?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Mtlc Copper - True Blue",
+    "category": "남성 신발",
+    "price": 239000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 10,
+    "name": "조던 1 로우",
+    "img": "https://images.footlocker.com/is/image/FLEU/314103203304?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - White - White",
+    "category": "남성 신발",
+    "price": 149000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 11,
+    "name": "에어 조던 6 레트로",
+    "img": "https://images.footlocker.com/is/image/FLEU/316705077804?wid=207&hei=207&fmt=png-alpha",
+    "color": "Fossil - Black - Sesame",
+    "category": "그레이드 스쿨 신발",
+    "price": 109000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 12,
+    "name": "조던 루카 2 PF",
+    "img": "https://images.footlocker.com/is/image/FLEU/314106190904?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Black - Green Strike",
+    "category": "남성 신발",
+    "price": 159000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 13,
+    "name": "에어 조던 레트로 11",
+    "img": "https://images.footlocker.com/is/image/FLEU/316704884804?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Mtlc Gold - Black",
+    "category": "그레이드 스쿨 신발",
+    "price": 209000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 14,
+    "name": "조던 스타디움 90",
+    "img": "https://images.footlocker.com/is/image/FLEU/315348493602?wid=207&hei=207&fmt=png-alpha",
+    "color": "Sail - Red Stardust - Wolf Grey",
+    "category": "여성 신발",
+    "price": 169000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 15,
+    "name": "조던 1 로우",
+    "img": "https://images.footlocker.com/is/image/FLEU/315348410002?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Galactic Jade",
+    "category": "여성 신발",
+    "price": 139000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 16,
+    "name": "조던 1 로우",
+    "img": "https://images.footlocker.com/is/image/FLEU/316704351804?wid=207&hei=207&fmt=png-alpha",
+    "color": "Phantom - Maroon - Total Orange",
+    "category": "그레이드 스쿨 신발",
+    "price": 129000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 17,
+    "name": "조던 Xxxviii Pf",
+    "img": "https://images.footlocker.com/is/image/FLEU/314106179204?wid=207&hei=207&fmt=png-alpha",
+    "color": "White - Black - Univ Red",
+    "category": "남성 신발",
+    "price": 239000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 18,
+    "name": "에어 조던 레트로 11",
+    "img": "https://images.footlocker.com/is/image/FLEU/315348488602?wid=207&hei=207&fmt=png-alpha",
+    "color": "Sail - Velvet Brown - Atmosphere",
+    "category": "여성 신발",
+    "price": 269000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 19,
+    "name": "조던 AJ1 줌 에어 CMFT 2",
+    "img": "https://images.footlocker.com/is/image/FLEU/314106106504?wid=207&hei=207&fmt=png-alpha",
+    "color": "Sail - Alpha Orange",
+    "category": "남성 신발",
+    "price": 179000,
+    "new": false,
+    "popularity": false
+  },
+  {
+    "id": 20,
+    "name": "에어 조던 1 미드",
+    "img": "https://images.footlocker.com/is/image/FLEU/315348427402?wid=207&hei=207&fmt=png-alpha",
+    "color": "Silver - Purple",
+    "category": "여성 신발",
+    "price": 159000,
+    "new": false,
+    "popularity": false
+  }
+]
