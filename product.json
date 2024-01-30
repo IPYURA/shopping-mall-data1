@@ -2,22 +2,22 @@
   {
     "id": 0,
     "name": "아디다스 삼바 OG",
-    "img": "https://images.footlocker.com/is/image/FLEU/315349082602?wid=267&hei=267&fmt=png-alpha",
-    "color": "Green - White - Brown",
-    "category": "남성 신발",
-    "price": 139000,
-    "new": false,
-    "popularity": false
-  },
-  {
-    "id": 1,
-    "name": "아디다스 삼바 OG",
     "img": "https://images.footlocker.com/is/image/FLEU/314313309404?wid=267&hei=267&fmt=png-alpha",
     "color": "Core Black - White - Gum",
     "category": "남성 신발",
     "price": 139000,
     "new": true,
     "popularity": true
+  },
+  {
+    "id": 1,
+    "name": "아디다스 삼바 OG",
+    "img": "https://images.footlocker.com/is/image/FLEU/315349082602?wid=267&hei=267&fmt=png-alpha",
+    "color": "Green - White - Brown",
+    "category": "남성 신발",
+    "price": 139000,
+    "new": false,
+    "popularity": false
   },
   {
     "id": 2,
@@ -126,7 +126,7 @@
     "color": "White - Black - Green Strike",
     "category": "남성 신발",
     "price": 159000,
-    "new": false,
+    "new": true,
     "popularity": false
   },
   {
@@ -146,7 +146,7 @@
     "color": "Sail - Red Stardust - Wolf Grey",
     "category": "여성 신발",
     "price": 169000,
-    "new": false,
+    "new": true,
     "popularity": false
   },
   {
@@ -157,7 +157,7 @@
     "category": "여성 신발",
     "price": 139000,
     "new": false,
-    "popularity": false
+    "popularity": true
   },
   {
     "id": 16,
@@ -167,7 +167,7 @@
     "category": "그레이드 스쿨 신발",
     "price": 129000,
     "new": false,
-    "popularity": false
+    "popularity": true
   },
   {
     "id": 17,
@@ -196,7 +196,7 @@
     "color": "Sail - Alpha Orange",
     "category": "남성 신발",
     "price": 179000,
-    "new": false,
+    "new": true,
     "popularity": false
   },
   {
